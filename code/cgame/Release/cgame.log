@@ -1,0 +1,84 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(1155,5): warning MSB4211: "GetTargetPathDependsOn" 속성에 처음으로 값이 설정되고 있지만 이미 "C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(2259,5)"에서 사용되었습니다.
+  bg_misc.c
+  bg_pmove.c
+  bg_slidemove.c
+  q_math.c
+  q_shared.c
+  ui_shared.c
+D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\game\q_shared.c(268,2): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\game\q_shared.c(280,2): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\game\q_shared.c(723,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\game\q_shared.c(876,8): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\game\q_shared.c(912,2): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\game\q_shared.c(1072,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\game\q_shared.c(1127,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\game\q_shared.c(1202,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\game\q_shared.c(1203,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\game\q_shared.c(1250,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\ui\ui_shared.c(190,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\ui\ui_shared.c(261,2): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\ui\ui_shared.c(283,2): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\ui\ui_shared.c(2943,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\ui\ui_shared.c(3373,6): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\ui\ui_shared.c(3374,6): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\ui\ui_shared.c(3379,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\ui\ui_shared.c(3815,14): warning C4456: 'parent' 선언은 이전 로컬 선언을 숨깁니다.
+      D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\ui\ui_shared.c(3806,14):
+      'parent' 선언을 참조하십시오.
+  
+  cg_consolecmds.c
+  cg_draw.c
+  cg_drawtools.c
+  cg_effects.c
+  cg_ents.c
+  cg_event.c
+D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\cgame\cg_event.c(115,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\cgame\cg_event.c(238,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\cgame\cg_event.c(241,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  cg_info.c
+  cg_localents.c
+  cg_main.c
+D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\cgame\cg_main.c(424,2): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\cgame\cg_main.c(435,2): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\cgame\cg_main.c(449,2): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\cgame\cg_main.c(460,2): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\cgame\cg_main.c(711,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\cgame\cg_main.c(1024,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  cg_marks.c
+D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\cgame\cg_marks.c(807,9): warning C4457: 'alpha' 선언은 함수 매개 변수를 숨깁니다.
+      D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\cgame\cg_marks.c(434,63):
+      'alpha' 선언을 참조하십시오.
+  
+D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\cgame\cg_marks.c(869,9): warning C4456: 'width' 선언은 이전 로컬 선언을 숨깁니다.
+      D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\cgame\cg_marks.c(439,9):
+      'width' 선언을 참조하십시오.
+  
+D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\cgame\cg_marks.c(869,16): warning C4456: 'height' 선언은 이전 로컬 선언을 숨깁니다.
+      D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\cgame\cg_marks.c(440,9):
+      'height' 선언을 참조하십시오.
+  
+  cg_players.c
+  cg_playerstate.c
+  cg_predict.c
+  cg_scoreboard.c
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  cg_servercmds.c
+D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\cgame\cg_servercmds.c(238,4): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\cgame\cg_servercmds.c(243,5): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\cgame\cg_servercmds.c(251,5): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  cg_snapshot.c
+  cg_syscalls.c
+  cg_view.c
+  cg_weapons.c
+D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\cgame\cg_weapons.c(658,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\cgame\cg_weapons.c(660,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\cgame\cg_weapons.c(663,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\cgame\cg_weapons.c(665,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\cgame\cg_weapons.c(668,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\cgame\cg_weapons.c(670,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다...
+C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(1424,5): warning MSB8012: TargetPath(D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\cgame\Release\cgame.dll)이(가) Linker의 OutputFile 속성 값(D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\Release\cgamex86.dll)과 일치하지 않습니다. 이로 인해 프로젝트가 잘못 빌드될 수 있습니다. 이를 수정하려면 $(OutDir), $(TargetName) 및 $(TargetExt) 속성 값이 %(Link.OutputFile)에 지정된 값과 일치해야 합니다.
+C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(1426,5): warning MSB8012: TargetName(cgame)이(가) Linker의 OutputFile 속성 값(cgamex86)과 일치하지 않습니다. 이로 인해 프로젝트가 잘못 빌드될 수 있습니다. 이를 수정하려면 $(OutDir), $(TargetName) 및 $(TargetExt) 속성 값이 %(Link.OutputFile)에 지정된 값과 일치해야 합니다.
+     .\Release/cgamex86.lib 라이브러리 및 .\Release/cgamex86.exp 개체를 생성하고 있습니다.
+  cgame.vcxproj -> D:\Game\OneDayCode\Quake3\Quake-III-Arena-master\code\cgame\Release\cgame.dll
